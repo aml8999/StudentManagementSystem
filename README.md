@@ -36,6 +36,8 @@ The project demonstrates core **Object-Oriented Programming (OOP)** concepts usi
 4. Exit
 Enter your choice:
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Language:** C#  
@@ -45,9 +47,20 @@ Enter your choice:
 
 ---
 
+## 🚀 How to Use
+
+1. Open the solution in Visual Studio  
+2. Run the application (starting from `Program.cs`)  
+3. Follow the on-screen console instructions to perform various operations
+
+---
+
 ## 👩‍💻 Created by
 
 **Aml Osman**  
 First-year Computer Science student, exploring software design and backend development.  
 This project reflects my growing understanding of building structured and scalable systems with a strong foundation in OOP.
+
+---
+
 
