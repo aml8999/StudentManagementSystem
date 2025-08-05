@@ -1,0 +1,7 @@
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\bin\Debug\Student Mangment System.exe.config
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\bin\Debug\Student Mangment System.exe
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\bin\Debug\Student Mangment System.pdb
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\obj\Debug\Student Mangment System.csproj.AssemblyReference.cache
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\obj\Debug\Student Mangment System.csproj.CoreCompileInputs.cache
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\obj\Debug\Student Mangment System.exe
+C:\Users\Workstation Shop\source\repos\Student Mangment System\Student Mangment System\obj\Debug\Student Mangment System.pdb
